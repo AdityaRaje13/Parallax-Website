@@ -1,0 +1,138 @@
+html,body
+{
+    height: 100%;
+    margin: 0px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+
+.image1
+{
+    background-image:url(images/3.jpeg);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.image2
+{
+    background-image:url(images/4.jpeg);
+    min-height: 65%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.image3
+{
+    background-image:url(images/5.jpeg);
+    min-height: 65%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.image4
+{
+    background-image:url(images/2.jpeg);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+.text1
+{
+    background-color: darkslategray;
+    width: 420px;
+    height: 80px;
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    text-align: center;
+    color: white;
+    font-size: 37px;
+    letter-spacing: 8px;
+    border-radius: 30px;
+}
+
+.text1 p
+{
+   margin-top: 20px;
+}
+
+.section2
+{
+    padding: 30px 60px;
+    text-align: center;
+}
+
+.section-light
+{
+    background-color:white ;
+    color: rgb(26, 23, 23);
+}
+
+.text2
+{
+    width: 420px;
+    height: 80px;
+    position: absolute;
+    top: 40%;
+    left: 35%;
+    text-align: center;
+    color: white;
+    font-size: 47px;
+    text-shadow:black 5px 5px 2px;
+    letter-spacing: 8px;
+    border-radius: 30px;
+}
+
+.section-dark
+{
+    background-color:darkslategray ;
+    color: white;
+}
+
+
+.text3
+{
+    width: 700px;
+    height: 80px;
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    text-align: center;
+    color: white;
+    font-size: 47px;
+    text-shadow:black 5px 5px 2px;
+    letter-spacing: 8px;
+    border-radius: 30px;
+}
+
+.text4
+{
+    width: 600px;
+    height: 80px;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    text-align: center;
+    color: black;
+    font-size: 47px;
+    text-shadow:white 5px 5px 3px;
+    letter-spacing: 8px;
+    border-radius: 30px;
+}
